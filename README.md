@@ -4,11 +4,11 @@
 
 - <b>Data Structures Practice (AlgoExpert)</b>
   - [Praciting DS Python](https://github.com/oliveiralgm/Algorithms-Practice)
-- <b>Codeing in R</b>
+- <b>Projects in R</b>
   - [Heart Failure Readmissions](https://github.com/oliveiralgm/heartfailure_readmissions) <b><i>(One of the largest Heart Failure institutes in the US)</b></i>
   - [Clustering and Deep Learning](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/) <b><i>(Third Largest Container Shipping Company in the World)</b></i>
-- <b>Cluster Tier Classification </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Projects in Python </b>
+  - [Podcast Transcribe and Search](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
