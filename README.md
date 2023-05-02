@@ -9,7 +9,7 @@
   - [Clustering and Deep Learning](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/) <b><i>(Third Largest Container Shipping Company in the World)</b></i>
 - <b>Projects in Python </b>
   - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)
-  - [Pair Trader based on Bloomberg's EMSX API](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Pair Trader based on Bloomberg's EMSX API](https://github.com/oliveiralgm/pair-trader-bbg-API)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
