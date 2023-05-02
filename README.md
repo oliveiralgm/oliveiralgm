@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gustavo! <br/><a href="https://github.com/oliveiralgm">Data Scientist/Analyst</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Social Media Marketing 4.9 star seller on Fiverr</h1>
+<h1>Hi, I'm Gustavo! <br/><a href="https://github.com/oliveiralgm">Data Scientist/Analyst</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Social Media Marketing 4.9 :star: seller on Fiverr</h1>
 
 <h2>👨‍💻 Data Science/Analysis Projects:</h2>
 
@@ -8,8 +8,8 @@
   - [Heart Failure Readmissions](https://github.com/oliveiralgm/heartfailure_readmissions) <b><i>(One of the largest Heart Failure institutes in the US)</b></i>
   - [Clustering and Deep Learning](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/) <b><i>(Third Largest Container Shipping Company in the World)</b></i>
 - <b>Projects in Python </b>
-  - [Podcast Transcribe and Search](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)
+  - [Pair Trader based on Bloomberg's EMSX API](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>C# (.NET Desktop Applications)</b>
