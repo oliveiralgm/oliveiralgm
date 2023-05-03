@@ -6,7 +6,7 @@
   
 
 - <b>SQL queries </b>
-  - [Sql queries for personal projects & Some practice](https://github.com/oliveiralgm/Algorithms-Practice)
+  - [Sql queries for personal projects & Some practice](https://github.com/oliveiralgm/sql-projects)
 - <b>Projects in R</b>
   - [Heart Failure Readmissions](https://github.com/oliveiralgm/heartfailure_readmissions) <b><i>(One of the largest Heart Failure institutes in the US)</b></i>
   - [Clustering and Deep Learning](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/) <b><i>(Third Largest Container Shipping Company in the World)</b></i>
