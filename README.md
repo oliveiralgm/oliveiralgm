@@ -1,6 +1,7 @@
-<h1>Hi, I'm Gustavo! <br/><a href="https://github.com/oliveiralgm">Data Scientist/Analyst</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Facebook Ads Specialist 4.9:star: seller on Fiverr</h1>
+<h1>Hi, I'm Gustavo! <br/><a href="https://www.visitbrasil.com/en/">From Brazil</a> | <a href="https://github.com/oliveiralgm">Data Scientist/Analyst</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Facebook Ads Specialist 4.9:star: seller on Fiverr</a></h1>
 
-<h2>👨‍💻 Data Science/Analysis/Coding Projects:</h2>
+<h2>👨‍💻 Data Science/Analysis/Coding Projects:</h2><h4> Your feedback and comments are very much appreciated!</h4>
+  
 
 - <b>SQL queries </b>
   - [Sql queries for personal projects & Some practice](https://github.com/oliveiralgm/Algorithms-Practice)
@@ -14,9 +15,11 @@
 - <b>Social Media Marketing/ FB Ads</b>
   - [Check out my GIGs on Fiverr](https://www.fiverr.com/gustavooliveira)
 - <b>Entrepreneur</b>
-  [Check out my pitch when my Company Escala11 was selected to StartFast accelerator]()
+  - Together with some friends I founded a <b>Daily Fantasy Soccer platform for Brazil in 2015</b>. 
+  - With my facebook ads expertise we acquired 60.000 users at a very low CAC and was invited to StartFast, an accelerator in Syracuse,NY, which eventually led to my masters at Syracuse University. At the end of this page, there is a video of my pitch to over 200 investors on Demo Day 🤦.
+  - [Escala11 Facebook Page with 244k followers!](https://www.facebook.com/escalaonze)
+  - [StartFast Accelerator](https://startfastventures.com/)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jOr_aXk4868" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 <h2>👨‍💻 Languages:</h2>
 
@@ -57,10 +60,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralgm)
 
+[![Escala11 pitch](https://img.youtube.com/vi/jOr_aXk4868/0.jpg)](https://www.youtube.com/watch?v=jOr_aXk4868)]
 
-<div align="center">
-<a href="https://www.youtube.com/watch?v=jOr_aXk4868"><img src="https://img.youtube.com/vi/jOr_aXk4868/0.jpg" alt="IMAGE ALT TEXT"></a>
-</div>
   
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
