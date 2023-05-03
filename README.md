@@ -1,6 +1,6 @@
 <h1>Hi, I'm Gustavo! <br/><a href="https://www.visitbrasil.com/en/">From Brazil</a> | <a href="https://github.com/oliveiralgm">Data Scientist/Analyst</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Facebook Ads Specialist 4.9:star: seller on Fiverr</a></h1>
 
-<h2>👨‍💻 Data Science/Analysis/Coding Projects:</h2><h4> Your feedback and comments are very much appreciated!</h4>
+<h2>👨‍💻 Data Science/Analysis/Coding Projects:</h2><h4> Please leave feedback or comments on the repos!</h4>
   
 
 - <b>SQL queries </b>
