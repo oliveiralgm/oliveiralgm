@@ -60,7 +60,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralgm)
 
-[![Escala11 pitch](https://img.youtube.com/vi/jOr_aXk4868/0.jpg)](https://www.youtube.com/watch?v=jOr_aXk4868)]
+### Escala11 StartFast Accelerator Demo Day Pitch.
+
+[![Escala11 pitch](https://img.youtube.com/vi/jOr_aXk4868/0.jpg)](https://www.youtube.com/watch?v=jOr_aXk4868)
 
   
 <!-- 
