@@ -15,8 +15,8 @@
   - [Check out my GIGs on Fiverr](https://www.fiverr.com/gustavooliveira)
 - <b>Entrepreneur</b>
   [Check out my pitch when my Company Escala11 was selected to StartFast accelerator]()
-  ![Watch the video](https://www.youtube.com/watch?v=jOr_aXk4868)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jOr_aXk4868" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
   
 <h2>👨‍💻 Languages:</h2>
 
@@ -58,6 +58,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralgm)
 
 
+<div align="center">
+<a href="https://www.youtube.com/watch?v=jOr_aXk4868"><img src="https://img.youtube.com/vi/jOr_aXk4868/0.jpg" alt="IMAGE ALT TEXT"></a>
+</div>
   
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
