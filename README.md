@@ -57,7 +57,6 @@
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-  
 ![]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralgm)
 
