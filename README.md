@@ -1,8 +1,9 @@
-<h1>Hi, I'm Gustavo! <br/>
+<h1>Hi, I'm Gustavo! </h1>
 <a href="https://github.com/oliveiralgm">Data Scientist/Analyst</a> <br/>
-<a href="https://www.visitbrasil.com/en/">From Brazil</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Facebook Ads Specialist 4.9:star: seller on Fiverr</a></h1>
 
-<h2>👨‍💻 Data Science/Analysis/Coding Projects:</h2><h4> Please leave feedback or comments on the repos!</h4>
+<a href="https://www.visitbrasil.com/en/">From Brazil</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Facebook Ads Specialist 4.9:star: seller on Fiverr</a>
+
+<h3>👨‍💻 Data Science/Analysis/Coding Projects:</h2><h4> Please leave feedback or comments on the repos!</h3>
   
 
 - <b>SQL queries </b>
