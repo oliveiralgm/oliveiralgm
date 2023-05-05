@@ -1,5 +1,5 @@
 <h1>Hi, I'm Gustavo! </h1>
-<a href="https://github.com/oliveiralgm">Data Scientist/Analyst</a> <br/>
+<a href="https://github.com/oliveiralgm/resume">Data Scientist/Analyst - Resume</a> <br/>
 
 <a href="https://www.visitbrasil.com/en/">From Brazil</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Facebook Ads Specialist 4.9:star: seller on Fiverr</a>
 
