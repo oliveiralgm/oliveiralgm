@@ -5,12 +5,11 @@
 
 <h3>👨‍💻 Data Science/Analysis/Coding Projects:</h2><h4> Please leave feedback or comments on the repos!</h3>
   
-
 - <b>SQL queries </b>
   - [Sql queries for personal projects & Some practice](https://github.com/oliveiralgm/sql-projects)
 - <b>Projects in R</b>
-  - [Heart Failure Readmissions](https://github.com/oliveiralgm/heartfailure_readmissions) <b><i>(One of the largest Heart Failure institutes in the US)</b></i>
-  - [Clustering and Deep Learning](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/) <b><i>(Third Largest Container Shipping Company in the World)</b></i>
+  - [Heart Failure Readmissions](https://github.com/oliveiralgm/heartfailure_readmissions) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
+  - [Clustering and Deep Learning](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/) <b><i>(libraries: )</b></i>
 - <b>Projects in Python </b>
   - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)
   - [Pair Trader based on Bloomberg's EMSX API](https://github.com/oliveiralgm/pair-trader-bbg-API)
