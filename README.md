@@ -14,7 +14,7 @@
 - <b>Projects in Python </b>
   - [Pair Trader based on Bloomberg's EMSX API](https://github.com/oliveiralgm/pair-trader-bbg-API)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
   - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)<b><i> (libraries: pydub, speech_recognition, whoosh)</b></i>
-  - [Sports Forecast models]()<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
+  - [Sports Forecast models - in production - will share soon]<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
 - <b>Social Media Marketing/ FB Ads</b>
   - [Check out my GIGs on Fiverr](https://www.fiverr.com/gustavooliveira)
 - <b>Entrepreneur</b>
