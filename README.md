@@ -5,16 +5,16 @@
 
 <h3>👨‍💻 Data Science/Analysis/Coding Projects:</h2><h4> Please leave feedback or comments on the repos!</h3>
   
-- <b>SQL queries </b>
+- <b>SQL queries (joins, group by, window functions, where, having, CTE's etc.)</b>
   - [Sql queries for personal projects & Some practice](https://github.com/oliveiralgm/sql-projects)
 - <b>Projects in R</b>
   - [Heart Failure Readmissions](https://github.com/oliveiralgm/heartfailure_readmissions) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
   - [Clustering and Deep Learning](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
 )</b></i>
 - <b>Projects in Python </b>
-  - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)
-  - [Pair Trader based on Bloomberg's EMSX API](https://github.com/oliveiralgm/pair-trader-bbg-API)
-  - [Sports Forecast models]()
+  - [Pair Trader based on Bloomberg's EMSX API](https://github.com/oliveiralgm/pair-trader-bbg-API)<b><i> (OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model)</b></i>
+  - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)<b><i> (OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model)</b></i>
+  - [Sports Forecast models]()<b><i> (OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model)</b></i>
 - <b>Social Media Marketing/ FB Ads</b>
   - [Check out my GIGs on Fiverr](https://www.fiverr.com/gustavooliveira)
 - <b>Entrepreneur</b>
