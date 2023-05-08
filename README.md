@@ -17,6 +17,9 @@
   - [Sports Forecast models - in production - will share soon]<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
 - <b>Some Tableau Visualizations</b>
   - [Animated Suicide Evolution](https://public.tableau.com/app/profile/luis.gustavo.monteiro.de.oliveira/viz/AnimatedSuicideEvolution1980to2015/Dashboard12)
+  - [Marketing KPI Reporting - in development]
+  - [Funnel Analysis - in development]
+  - [Finance Reporting - in development]
 
 - <b>Social Media Marketing/ FB Ads</b>
   - [Check out my GIGs on Fiverr](https://www.fiverr.com/gustavooliveira)
