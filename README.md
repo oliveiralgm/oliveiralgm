@@ -19,7 +19,7 @@
   - [Mynd Data Challenge](https://github.com/oliveiralgm/data_challenge/tree/main/Mynd)<b><i> (SQL, Python, LTV, Survival Analysis, Timeseries)</b></i>
 - <b>Some Tableau Visualizations</b>
   - [Animated Suicide Evolution](https://public.tableau.com/app/profile/luis.gustavo.monteiro.de.oliveira/viz/AnimatedSuicideEvolution1980to2015/Dashboard12)
-  - [Marketing KPI Reporting - in development]
+  - [The Beatles Songs](https://public.tableau.com/app/profile/luis.gustavo.monteiro.de.oliveira/viz/TheBeatles_16836917239430/BeatlesSongsAnalysis)
   - [Funnel Analysis - in development]
   - [Finance Reporting - in development]
 
