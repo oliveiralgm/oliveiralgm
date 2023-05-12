@@ -3,7 +3,7 @@
 
 <a href="https://www.visitbrasil.com/en/">From Brazil</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Facebook Ads Specialist 4.9:star: seller on Fiverr</a>
 
-<h3>👨‍💻 Data Science/Analysis/Coding Projects:</h2><h4> Please leave feedback or comments on the repos!</h3>
+<h3>👨‍💻 Data Science/Analysis/Coding/Tableau Projects:</h2><h4> Please leave feedback or comments on the repos!</h3>
   
 - <b>SQL queries (joins, group by, window functions, where, having, CTE's etc.)</b>
   - [Sql queries for personal projects & Some practice](https://github.com/oliveiralgm/sql-projects)
