@@ -66,7 +66,7 @@
 
 
 ![]()
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralgm)
+![Top Langs]
 
 ### Escala11 StartFast Accelerator Demo Day Pitch.
 
