@@ -1,25 +1,25 @@
 <h1>Hi, I'm Gustavo! </h1>
-<a href="https://github.com/oliveiralgm/resume/blob/main/Gustavo%20Oliveira_.pdf">Data Scientist/Analyst - Resume</a> <br/>
+<a href="https://rebrand.ly/github_resume">Data Scientist/Analyst - Resume</a> <br/>
 
-<a href="https://www.visitbrasil.com/en/">From Brazil</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://www.fiverr.com/gustavooliveira"> Facebook Ads Specialist 4.9:star: seller on Fiverr</a>
+<a href="https://www.visitbrasil.com/en/">From Brazil</a> | <a href="https://www.linkedin.com/in/oliveiralgm/">Entrepreneur</a> | <a href="https://rebrand.ly/github_fiverr"> Facebook Ads Specialist 4.9:star: seller on Fiverr</a>
 
 <h3>👨‍💻 Data Science/Analysis/Coding/Tableau Projects:</h2><h4> Please leave feedback or comments on the repos!</h3>
   
 - <b>SQL queries (joins, group by, window functions, where, having, CTE's etc.)</b>
-  - [Sql queries for personal projects & Some practice](https://github.com/oliveiralgm/sql-projects)
+  - [Sql queries for personal projects & Some practice](https://rebrand.ly/github_sql)
 - <b>Projects in R</b>
-  - [Heart Failure Readmissions](https://github.com/oliveiralgm/heartfailure_readmissions) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
-  - [Clustering and Deep Learning](https://github.com/oliveiralgm/Cluster-and-Deep-Learning-in-R/) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
+  - [Heart Failure Readmissions](https://rebrand.ly/github_heart_failure) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
+  - [Clustering and Deep Learning](https://rebrand.ly/github_CMA) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
 )</b></i>
 - <b>Projects in Python </b>
-  - [Pair Trader based on Bloomberg's EMSX API](https://github.com/oliveiralgm/pair-trader-bbg-API)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
+  - [Pair Trader based on Bloomberg's EMSX API](hhttps://rebrand.ly/github_trader)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
   - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)<b><i> (libraries: pydub, speech_recognition, whoosh)</b></i>
   - [Sports Forecast models - in production - will share soon]<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
 - <b>Data Challenges </b>
-  - [Mynd Data Challenge](https://github.com/oliveiralgm/data_challenge/tree/main/Mynd)<b><i> (SQL, Python, LTV, Survival Analysis, Timeseries)</b></i>
+  - [Mynd Data Challenge](https://rebrand.ly/github_mynd)<b><i> (SQL, Python, LTV, Survival Analysis, Timeseries)</b></i>
 - <b>Some Tableau Visualizations</b>
-  - [Animated Suicide Evolution](https://public.tableau.com/app/profile/luis.gustavo.monteiro.de.oliveira/viz/AnimatedSuicideEvolution1980to2015/Dashboard12)
-  - [The Beatles Songs](https://public.tableau.com/app/profile/luis.gustavo.monteiro.de.oliveira/viz/TheBeatles_16836917239430/BeatlesSongsAnalysis)
+  - [Animated Suicide Evolution](https://rebrand.ly/github_suicide)
+  - [The Beatles Songs](https://rebrand.ly/github_beatles)
   - [Funnel Analysis - in development]
   - [Finance Reporting - in development]
 
