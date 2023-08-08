@@ -1,7 +1,7 @@
 <h1>Hi, I'm Gustavo! </h1>
 <a href="https://rebrand.ly/github_resume">Data Scientist/Analyst - Resume</a> <br/>
 
-<a href="https://www.linkedin.com/in/oliveiralgm/">Linekdin</a>
+<a href="https://www.linkedin.com/in/oliveiralgm/">Linkedin</a>
 
 <h3>👨‍💻 Data Science/Analysis/Coding/Tableau Projects:</h2><h4> Please leave feedback or comments on the repos!</h3>
   
