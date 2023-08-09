@@ -4,14 +4,19 @@
 <a href="https://www.linkedin.com/in/oliveiralgm/">Linkedin</a>
 
 <h3>👨‍💻 Data Science/Analysis/Coding/Tableau Projects:</h2><h4> Please leave feedback or comments on the repos!</h3>
-  
+
+![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - <b>SQL queries (joins, group by, window functions, where, having, CTE's etc.)</b>
   - [Sql queries for personal projects & Some practice](https://rebrand.ly/github_sql)
-- <b>Projects in R</b>
+
+![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- <b>Projects in R</b> 
+
   - [Heart Failure Readmissions](https://rebrand.ly/github_heart_failure) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
   - [Clustering and Deep Learning](https://rebrand.ly/github_CMA) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
 )</b></i>
-- <b>Projects in Python </b> - ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+- <b>Projects in Python </b> 
   - [Pair Trader based on Bloomberg's EMSX API](https://rebrand.ly/github_trader)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
   - [INTERCOM Funnel Marketing Analysis](https://rebrand.ly/git_intercom)<b><i> (funnel analysis, python, pandas, matplotlib, plotly, algotithms)</b></i>
   - [Mynd LTV Survival Analysis](https://rebrand.ly/github_mynd)<b><i> (SQL, python, LTV, survival analysis, timeseries)</b></i>
