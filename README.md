@@ -11,7 +11,7 @@
   - [Heart Failure Readmissions](https://rebrand.ly/github_heart_failure) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
   - [Clustering and Deep Learning](https://rebrand.ly/github_CMA) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
 )</b></i>
-- <b>Projects in Python </b>
+- <b>Projects in Python </b> - ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   - [Pair Trader based on Bloomberg's EMSX API](https://rebrand.ly/github_trader)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
   - [INTERCOM Funnel Marketing Analysis](https://rebrand.ly/git_intercom)<b><i> (funnel analysis, python, pandas, matplotlib, plotly, algotithms)</b></i>
   - [Mynd LTV Survival Analysis](https://rebrand.ly/github_mynd)<b><i> (SQL, python, LTV, survival analysis, timeseries)</b></i>
