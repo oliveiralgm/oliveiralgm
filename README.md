@@ -15,6 +15,7 @@
   - [Heart Failure Readmissions](https://rebrand.ly/github_heart_failure) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
   - [Clustering and Deep Learning](https://rebrand.ly/github_CMA) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
 )</b></i>
+
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - <b>Projects in Python </b> 
   - [Pair Trader based on Bloomberg's EMSX API](https://rebrand.ly/github_trader)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
@@ -23,20 +24,13 @@
   - [HOVER Forecasting](https://rebrand.ly/git_hover)<b><i> (python, pandas, numpy, keras, ssl, sklearn, pandas, LSTM, GLM Lag model, statsmodels, geopy, timeseries, stacked LSTM)</b></i>
   - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)<b><i> (pydub, speech_recognition, whoosh)</b></i>
   - [Sports Forecast models - in production - will share soon]<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
+
+![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 - <b>Some Tableau Visualizations</b>
   - [Animated Suicide Evolution](https://rebrand.ly/github_suicide)
   - [The Beatles Songs](https://rebrand.ly/github_beatles)
   - [Funnel Analysis - in development]
   - [Finance Reporting - in development]
-
-- <b>Social Media Marketing/ FB Ads</b>
-  - [Check out my GIGs on Fiverr](https://www.fiverr.com/gustavooliveira)
-- <b>Entrepreneur</b>
-  - Together with some friends I founded a <b>Daily Fantasy Soccer platform for Brazil in 2015</b>. 
-  - With my facebook ads expertise we acquired 60.000 users at a very low CAC and was invited to StartFast, an accelerator in Syracuse,NY, which eventually led to my masters at Syracuse University. At the end of this page, there is a video of my pitch to over 200 investors on Demo Day 🤦.
-  - [Escala11 Facebook Page with 244k followers!](https://www.facebook.com/escalaonze)
-  - [StartFast Accelerator](https://startfastventures.com/)
-
   
 <h2>👨‍💻 Languages:</h2>
 
@@ -73,11 +67,6 @@
 
 ![]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralgm)
-
-### Escala11 StartFast Accelerator Demo Day Pitch.
-
-[![Escala11 pitch](https://img.youtube.com/vi/jOr_aXk4868/0.jpg)](https://www.youtube.com/watch?v=jOr_aXk4868)
-
   
 <!-- 
 <h2>📺 Popular YouTube Videos</h2>
@@ -90,7 +79,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<a href="https://www.instagram.com/thelightsaber__/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Gustavo Oliveira | Instagram" width="21px"/></a>
 <a href="https://www.linkedin.com/in/oliveiralgm/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gustavo Oliveira | LinkedIn" width="21px"/></a>  <br />
 
 
@@ -100,7 +88,7 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-  - 🔭 I’m currently working on soccer forecasting models
+  - 🔭 I’m currently working on soccer forecasting models/ A/B Testing / Udemy Courses
   - 📧 How to reach me: [goliveir@syr.edu](mailto:goliveir@syr.edu)
   - 😄 Pronouns: He/Him
   - ⚡ Fun fact: I'm a violinist 🎻
