@@ -12,11 +12,12 @@
   - [Clustering and Deep Learning](https://rebrand.ly/github_CMA) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
 )</b></i>
 - <b>Projects in Python </b>
-  - [Pair Trader based on Bloomberg's EMSX API](hhttps://rebrand.ly/github_trader)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
-  - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)<b><i> (libraries: pydub, speech_recognition, whoosh)</b></i>
+  - [Pair Trader based on Bloomberg's EMSX API](https://rebrand.ly/github_trader)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
+  - [INTERCOM Funnel Marketing Analysis](https://rebrand.ly/git_intercom)<b><i> (funnel analysis, python, pandas, matplotlib, plotly, algotithms)</b></i>
+  - [Mynd LTV Survival Analysis](https://rebrand.ly/github_mynd)<b><i> (SQL, python, LTV, survival analysis, timeseries)</b></i>
+  - [HOVER Forecasting](https://rebrand.ly/git_hover)<b><i> (python, pandas, numpy, keras, ssl, sklearn, pandas, LSTM, GLM Lag model, statsmodels, geopy, timeseries, stacked LSTM)</b></i>
+  - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)<b><i> (pydub, speech_recognition, whoosh)</b></i>
   - [Sports Forecast models - in production - will share soon]<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
-- <b>Data Challenges </b>
-  - [Mynd Data Challenge](https://rebrand.ly/github_mynd)<b><i> (SQL, Python, LTV, Survival Analysis, Timeseries)</b></i>
 - <b>Some Tableau Visualizations</b>
   - [Animated Suicide Evolution](https://rebrand.ly/github_suicide)
   - [The Beatles Songs](https://rebrand.ly/github_beatles)
