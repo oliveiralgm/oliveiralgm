@@ -1,5 +1,5 @@
 <h1>Hi, I'm Gustavo! </h1>
-<a href="https://rebrand.ly/github_resume">Data Scientist/Analyst - Resume</a> <br/>
+<a href="https://rebrand.ly/github_resume">Senior Data Scientist | Senior Product Analysis | Senior Analytics Engineer - Resume</a> <br/>
 
 <a href="https://www.linkedin.com/in/oliveiralgm/">Linkedin</a>
 
