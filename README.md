@@ -25,7 +25,7 @@
   - [Mynd LTV Survival Analysis](https://rebrand.ly/github_mynd)<b><i> (SQL, python, LTV, survival analysis, timeseries)</b></i>
   - [HOVER Forecasting](https://rebrand.ly/git_hover)<b><i> (python, pandas, numpy, keras, ssl, sklearn, pandas, LSTM, GLM Lag model, statsmodels, geopy, timeseries, stacked LSTM)</b></i>
   - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)<b><i> (pydub, speech_recognition, whoosh)</b></i>
-  - [Sports Forecast models - in production - will share soon]<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
+  - [BettoBot - An AI-Powered Sports Betting App](https://rebrand.ly/BettoBot)<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
 
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 - <b>Some Tableau Visualizations</b>
