@@ -1,30 +1,36 @@
 <h1>Hi, I'm Gustavo! </h1>
 <h2>Welcome to my Github Portfolio </h2>
 
-<a href="https://rebrand.ly/git_resume">Senior Data Scientist | Senior Product Data Analysis | Senior Analytics Engineer - Resume</a> <br/>
+<p><i>Project source has been consolidated into this repo under <a href="./projects/">projects/</a>.</i></p>
+
+<a href="https://rebrand.ly/git_resume">Senior Data Scientist | Senior Product Data Analysis | Senior Analytics Engineer - Resume</a>
+&middot;
+<a href="./projects/resume/">Resume folder in this repo</a>
+<br/>
 
 <a href="https://www.linkedin.com/in/oliveiralgm/">Linkedin</a>
 
-<h3>👨‍💻 Data Science/Analysis/Coding/Tableau Projects:</h2><h4> Please leave feedback or comments on the repos!</h3>
+<h3>👨‍💻 Data Science/Analysis/Coding/Tableau Projects:</h3><h4> Please leave feedback or comments on the repos!</h4>
 
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 - <b>SQL queries (joins, group by, window functions, where, having, CTE's etc.)</b>
-  - [Sql queries for personal projects & Some practice](https://rebrand.ly/github_sql)
+  - [Sql queries for personal projects & Some practice](projects/sql-projects)
 
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 - <b>Projects in R</b> 
 
-  - [Heart Failure Readmissions](https://rebrand.ly/github_heart_failure) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
-  - [Clustering and Deep Learning](https://rebrand.ly/github_CMA) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
+  - [Heart Failure Readmissions](projects/heartfailure_readmissions) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
+  - [Clustering and Deep Learning](projects/cluster_and_deep_learning_R) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
 )</b></i>
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - <b>Projects in Python </b> 
-  - [Pair Trader based on Bloomberg's EMSX API](https://rebrand.ly/github_trader)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
-  - [INTERCOM Funnel Marketing Analysis](https://rebrand.ly/git_intercom)<b><i> (funnel analysis, python, pandas, matplotlib, plotly, algotithms)</b></i>
+  - [Data challenges](projects/data_challenge)<b><i> (portfolio exercises)</b></i>
+  - [Pair Trader based on Bloomberg's EMSX API](projects/pair_trader)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
+  - [INTERCOM Funnel Marketing Analysis](projects/Intercom_Funnel_analysis)<b><i> (funnel analysis, python, pandas, matplotlib, plotly, algotithms)</b></i>
   - [Mynd LTV Survival Analysis](https://rebrand.ly/github_mynd)<b><i> (SQL, python, LTV, survival analysis, timeseries)</b></i>
-  - [HOVER Forecasting](https://rebrand.ly/git_hover)<b><i> (python, pandas, numpy, keras, ssl, sklearn, pandas, LSTM, GLM Lag model, statsmodels, geopy, timeseries, stacked LSTM)</b></i>
-  - [Podcast Transcribe and Search](https://github.com/oliveiralgm/podcast-project)<b><i> (pydub, speech_recognition, whoosh)</b></i>
+  - [HOVER Forecasting](projects/HOVER_jobs_forecast)<b><i> (python, pandas, numpy, keras, ssl, sklearn, pandas, LSTM, GLM Lag model, statsmodels, geopy, timeseries, stacked LSTM)</b></i>
+  - [Podcast Transcribe and Search](projects/podcast-project)<b><i> (pydub, speech_recognition, whoosh)</b></i>
   - [BettoBot - An AI-Powered Sports Betting App](https://rebrand.ly/BettoBot)<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
 
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
