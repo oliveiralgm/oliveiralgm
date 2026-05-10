@@ -1,15 +1,17 @@
 # Consolidated projects
 
-Code from former standalone repositories lives here (snapshot import, shallow clone). Canonical copy for this portfolio is **`oliveiralgm/oliveiralgm`** unless you archive the old repos and point traffic here only.
+Project code migrated from archived standalone repos into **`oliveiralgm/oliveiralgm`** snapshot folders (see root profile [`README`](../README.md) for outbound links).
 
-| Folder | Notes |
-|--------|------|
-| [cluster_and_deep_learning_R](cluster_and_deep_learning_R) | Clustering / deep learning (R) |
-| [data_challenge](data_challenge) | Data challenges |
-| [heartfailure_readmissions](heartfailure_readmissions) | Heart failure readmissions (R) |
-| [HOVER_jobs_forecast](HOVER_jobs_forecast) | HOVER forecasting (Python) |
-| [Intercom_Funnel_analysis](Intercom_Funnel_analysis) | INTERCOM funnel analysis |
-| [pair_trader](pair_trader) | Bloomberg EMSX pair trader |
-| [podcast-project](podcast-project) | Podcast transcribe & search |
-| [resume](resume) | Résumé / CV materials |
-| [sql-projects](sql-projects) | SQL practice / personal queries |
+| Folder | What it showcases |
+|--------|-------------------|
+| [cluster_and_deep_learning_R](cluster_and_deep_learning_R) | Operations analytics: quoting clusters + voyage volume CNN-LSTM (R / internship narrative) |
+| [data_challenge](data_challenge) | Recruiting / take-home proofs (includes **Mynd** survival + LTV work) |
+| [heartfailure_readmissions](heartfailure_readmissions) | Readmission exploratory analytics for hospital stakeholders (R visuals + models) |
+| [HOVER_jobs_forecast](HOVER_jobs_forecast) | Operational demand forecasting with stacked LSTM + classical baselines |
+| [Intercom_Funnel_analysis](Intercom_Funnel_analysis) | SaaS funnel timing + segmentation deep dive |
+| [pair_trader](pair_trader) | Bloomberg EMSX-connected pair trading infra (multi-process + GUI) |
+| [podcast-project](podcast-project) | ASR ingestion + searchable text index demos |
+| [resume](resume) | Latest résumé PDF snapshots |
+| [sql-projects](sql-projects) | SQL drills (practice platforms + windowing patterns) |
+
+**Note:** heavyweight media (e.g. podcast WAV/DOCX) and proprietary data paths remain as in the originals; reproducibility tooling can be layered on later without touching core scripts.

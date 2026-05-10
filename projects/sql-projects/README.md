@@ -1,3 +1,7 @@
-## sql-projects
+# sql-projects
 
-``` Just every day SQL practice from codeing platforms like - StrataScratch/LeetCode/HackerRank```
+Everyday SQL practice from coding platforms (**StrataScratch**, **LeetCode**, **HackerRank**) and interview-style drills.
+
+Focus areas include **`JOIN`**, **`GROUP BY`**, **window functions**, **`WHERE` / `HAVING`**, **`WITH` clauses (CTEs)**.
+
+Each script is standalone; filenames map to prompts or schemas noted in-file.

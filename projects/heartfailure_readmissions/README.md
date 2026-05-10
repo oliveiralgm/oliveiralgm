@@ -1,23 +1,25 @@
- ``` 
- EDA and recommendedations to a major heart institute in the US to help decide resources direction to reduce Medicare resubmissions penalization. 
  
- > Libraries use:  
+ ``` 
+EDA and recommendations for a major heart institute in the US to help prioritize resources aimed at lowering **Medicare readmission penalties**. 
+
+ > Libraries used:  
     - plyr,
     - RColorBrewer, 
     - treemap, 
     - wordcloud, 
     - wordcloud2, 
     - e1071 & caret (Naive Bayes Regression, Linear Regression) 
-   ```
+```
 
 
-<h2> </h2>
+## Context
 
-## More Details:
+This engagement supported a national heart failure network weighing how to prioritize programs that blunt **Medicare readmission penalties**.
 
-This was a study made for a large heart failure institute in the US. 
+Medicare penalizes hospitals when patients are **readmitted**, so directional insight into readmission cohorts directs operational planning.
 
-Medicare penalizes hospitals every time a patient is readmitted, therefore it is important to understand the nature of readmissions in order to direct resources in order to reduce it.
+EDA and visuals were scripted in **`R`**; linear regressions plus naive Bayes were used largely for interpretability/feature importance rather than deploying a finalized scoring model.
 
-EDA and Visualization were written in R. 
-Built linear regressions and naive bayes to understand variable importance but not used.
+## Portfolio note on running scripts
+
+Historical artifacts reference a **`read.csv`** path local to an analyst machine. Path hygiene + sample data plumbing are deferred on purpose (**code untouched**)—expect to repoint ingestion before executing end-to-end.

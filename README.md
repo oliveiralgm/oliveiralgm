@@ -1,46 +1,50 @@
 <h1>Hi, I'm Gustavo! </h1>
-<h2>Welcome to my Github Portfolio </h2>
+<h2>Welcome to my GitHub portfolio </h2>
 
-<p><i>Project source has been consolidated into this repo under <a href="./projects/">projects/</a>.</i></p>
+<p><i>Source for these projects lives in one monorepo — start browsing under <a href="./projects/">projects/</a> (see <a href="./projects/README.md">projects/README</a> for a capsule index).</i></p>
 
-<a href="https://rebrand.ly/git_resume">Senior Data Scientist | Senior Product Data Analysis | Senior Analytics Engineer - Resume</a>
-&middot;
-<a href="./projects/resume/">Resume folder in this repo</a>
-<br/>
+<p>Senior <strong>Data Scientist</strong> / <strong>Product analytics</strong> / <strong>Analytics engineering</strong> — bridging experimentation, stakeholder storytelling, and production-minded pipelines.</p>
 
-<a href="https://www.linkedin.com/in/oliveiralgm/">Linkedin</a>
+<p>
+<a href="https://rebrand.ly/git_resume">Résumé (short link)</a>
+ ·
+<a href="./projects/resume/">Résumé folder</a>
+ ·
+<a href="https://www.linkedin.com/in/oliveiralgm/">LinkedIn</a>
+</p>
 
-<h3>👨‍💻 Data Science/Analysis/Coding/Tableau Projects:</h3><h4> Please leave feedback or comments on the repos!</h4>
+<h3>👨‍💻 Data science · analysis · engineering · visualization</h3>
+
+<h4>Feedback welcome — open an issue if something looks off.</h4>
 
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-- <b>SQL queries (joins, group by, window functions, where, having, CTE's etc.)</b>
-  - [Sql queries for personal projects & Some practice](projects/sql-projects)
+- <b>SQL (joins, window functions, CTEs, aggregates)</b>
+  - [Practice + sample solutions](projects/sql-projects)
 
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-- <b>Projects in R</b> 
+- <b>Projects in R</b>
 
-  - [Heart Failure Readmissions](projects/heartfailure_readmissions) <b><i>(libraries: plyr, RColorBrewer, treemap, wordcloud, wordcloud2, e1071 & caret (Naive Bayes Regression, Linear Regression) )</b></i>
-  - [Clustering and Deep Learning](projects/cluster_and_deep_learning_R) <b><i>(libraries: dplyr, cluster, Rtsne, ggplot2, gdata, xlsx
-)</b></i>
+  - [Heart failure readmissions](projects/heartfailure_readmissions) <b><i>(plyr, RColorBrewer, treemap, wordcloud, caret / e1071 — regression + naive Bayes for interpretability)</i></b>
+  - [Clustering + DL internship work](projects/cluster_and_deep_learning_R) <b><i>(dplyr, cluster, Rtsne, ggplot2, Excel/VBA ingestion)</i></b>
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-- <b>Projects in Python </b> 
-  - [Data challenges](projects/data_challenge)<b><i> (portfolio exercises)</b></i>
-  - [Pair Trader based on Bloomberg's EMSX API](projects/pair_trader)<b><i> (algorithms, OOP, multithreading, GUI, API real-time data processing, cross-boarder arbitrage model, Order Management Architecture)</b></i>
-  - [INTERCOM Funnel Marketing Analysis](projects/Intercom_Funnel_analysis)<b><i> (funnel analysis, python, pandas, matplotlib, plotly, algotithms)</b></i>
-  - [Mynd LTV Survival Analysis](https://rebrand.ly/github_mynd)<b><i> (SQL, python, LTV, survival analysis, timeseries)</b></i>
-  - [HOVER Forecasting](projects/HOVER_jobs_forecast)<b><i> (python, pandas, numpy, keras, ssl, sklearn, pandas, LSTM, GLM Lag model, statsmodels, geopy, timeseries, stacked LSTM)</b></i>
-  - [Podcast Transcribe and Search](projects/podcast-project)<b><i> (pydub, speech_recognition, whoosh)</b></i>
-  - [BettoBot - An AI-Powered Sports Betting App](https://rebrand.ly/BettoBot)<b><i> (API, algorithms, classification models, backtesting, forecasting, odds based model evaluation)</b></i>
+- <b>Projects in Python</b>
+  - [Recruiting / data challenges](projects/data_challenge)<b><i> (take-home proofs)</i></b>
+  - [Bloomberg EMSX pair trader](projects/pair_trader)<b><i> (OOP, multithreading, GUI, realtime API wiring, cross-border arbitrage scaffolding, OMS adapters)</i></b>
+  - [Intercom funnel study](projects/Intercom_Funnel_analysis)<b><i> (pandas/matplotlib funnel diagnostics)</i></b>
+  - [Mynd LTV & survival storyline](projects/data_challenge/Mynd/) · <b><i>(also summarized via</i></b> <a href="https://rebrand.ly/github_mynd">short link</a><b><i>)</i></b>
+  - [HOVER forecasting](projects/HOVER_jobs_forecast)<b><i> (pandas/scikit-learn/keras, GLM lag baselines, LSTM stacks)</i></b>
+  - [Podcast transcribe & search prototype](projects/podcast-project)<b><i> (pydub, speech_recognition, Whoosh)</i></b>
+  - [BettoBot — soccer betting experimentation](https://rebrand.ly/BettoBot)<b><i> (classification, backtests, forecasting)</i></b>
 
 ![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-- <b>Some Tableau Visualizations</b>
-  - [Animated Suicide Evolution](https://rebrand.ly/github_suicide)
-  - [The Beatles Songs](https://rebrand.ly/github_beatles)
-  - [Funnel Analysis - in development]
-  - [Finance Reporting - in development]
+- <b>Tableau highlights</b>
+  - [Animated suicide evolution viz](https://rebrand.ly/github_suicide)
+  - [The Beatles visualization](https://rebrand.ly/github_beatles)
+  - <i>Funnel exploration — backlog (prompt + draft assets not yet wired here)</i>
+  - <i>Finance reporting — backlog (portfolio refresh planned)</i>
   
-<h2>👨‍💻 Languages:</h2>
+<h2>👨‍💻 Languages</h2>
 
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -73,30 +77,15 @@
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 
-![]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveiralgm)
   
-<!-- 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>🤳 Connect</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA) -->
+<p><a href="https://www.linkedin.com/in/oliveiralgm/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gustavo Oliveira — LinkedIn" width="21"/></a></p>
 
-<h2> 🤳 Connect with me:</h2>
-
-<a href="https://www.linkedin.com/in/oliveiralgm/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Gustavo Oliveira | LinkedIn" width="21px"/></a>  <br />
-
-
-<h2> </h2>
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
-
-  - 🔭 I’m currently working on soccer forecasting models/ A/B Testing / Udemy Courses
-  - 📧 How to reach me: [goliveir@syr.edu](mailto:goliveir@syr.edu)
-  - 😄 Pronouns: He/Him
-  - ⚡ Fun fact: I'm a violinist 🎻
+<ul>
+<li>🔭 Currently focused on soccer forecasting experiments, causal / A/B thinking, coursework deep dives.</li>
+<li>📧 Reach me via <a href="mailto:goliveir@syr.edu">goliveir@syr.edu</a></li>
+<li>😄 He/Him pronouns.</li>
+<li>⚡ Classically trained violinist.</li>
+</ul>
