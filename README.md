@@ -8,6 +8,10 @@ Most day-to-day work lives in private company repos. The public lead project bel
 
 [LinkedIn](https://www.linkedin.com/in/oliveiralgm/) · oliveiralgm@gmail.com
 
+## Cooperative project
+
+**[Symantica](https://github.com/symantica/symantica)** - Cooperative project I started. A semantic compiler for analytics and BI: it compiles metric definitions and analytical behaviors into a deterministic query plan and view model, which can be rendered into multiple dashboard runtimes.
+
 ## Lead project
 
 | Repo | What it shows |
