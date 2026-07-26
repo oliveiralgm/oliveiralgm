@@ -1,8 +1,10 @@
 # Gustavo Oliveira
 
-Sr Staff Data Analyst at [Achieve](https://www.achieve.com). I build analytics platforms, metric systems, and AI-assisted BI that help teams trust numbers and move faster.
+Sr Staff Data Analyst at [Achieve](https://www.achieve.com).
 
-Most day-to-day work lives in private company repos. The public lead project below is an architecture demo of the platform pattern (auto-mount Dash monolith, metric-style mock dashboards, adoption telemetry, experiment modernization). Mock data only; not Achieve production code.
+Principal level analyst and analytics engineer in consumer lending. I architected the BI platform my organization runs on, a single containerized application that mounts dashboards on discovery, promotes itself across environments, and holds up under Kubernetes. Underneath it I define the metric contracts that keep team level and individual level numbers agreeing, lead the migration off legacy data lake views onto standardized warehouse tables, and set the statistical bar for what leadership is allowed to conclude from a segment comparison. I stay hands on in SQL, Python, and product design, and I write the specs that turn my blockers into cross-functional work other teams can act on.
+
+Most day-to-day work lives in private company repos. The public lead project below is an architecture demo of that platform pattern (auto-mount Dash monolith, metric-style mock dashboards, adoption telemetry, experiment modernization). Mock data only; not Achieve production code.
 
 [LinkedIn](https://www.linkedin.com/in/oliveiralgm/) · oliveiralgm@gmail.com
 
@@ -10,7 +12,7 @@ Most day-to-day work lives in private company repos. The public lead project bel
 
 | Repo | What it shows |
 |------|----------------|
-| **[bi-monolith-demo](https://github.com/oliveiralgm/bi-monolith-demo)** | Staff analytics platform demo: Flask/Dash auto-discovery mounting, consumer funnel (application → funding), experiment / A/B readout (Tableau → Dash spirit), platform adoption (DAU, peak users, per-dashboard). Public playground mode for hosted samples; contact for the full suite / access key. |
+| **[bi-monolith-demo](https://github.com/oliveiralgm/bi-monolith-demo)** | Staff analytics platform demo: Flask/Dash auto-discovery mounting, consumer funnel (application to funding), experiment / A/B readout (Tableau to Dash spirit), platform adoption (DAU, peak users, per-dashboard). Public playground mode for hosted samples; contact for the full suite / access key. |
 
 **Live playground:** [https://bi-monolith-demo.onrender.com/](https://bi-monolith-demo.onrender.com/)
 
