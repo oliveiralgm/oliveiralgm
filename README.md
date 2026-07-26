@@ -12,6 +12,8 @@ Most day-to-day work lives in private company repos. The public lead project bel
 |------|----------------|
 | **[bi-monolith-demo](https://github.com/oliveiralgm/bi-monolith-demo)** | Staff analytics platform demo: Flask/Dash auto-discovery mounting, consumer funnel (application → funding), experiment / A/B readout (Tableau → Dash spirit), platform adoption (DAU, peak users, per-dashboard). Public playground mode for hosted samples; contact for the full suite / access key. |
 
+**Live playground:** [https://bi-monolith-demo.onrender.com/](https://bi-monolith-demo.onrender.com/)
+
 One-click deploy (you click once): [Deploy to Render](https://render.com/deploy?repo=https://github.com/oliveiralgm/bi-monolith-demo)
 
 ## What I care about
