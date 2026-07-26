@@ -1,10 +1,18 @@
 # Gustavo Oliveira
 
-Staff / Principal Analytics Engineer at [Achieve](https://www.achieve.com). I build metrics systems, data foundations, and internal tools that help teams trust numbers and move faster.
+Sr Staff Data Analyst at [Achieve](https://www.achieve.com). I build analytics platforms, metric systems, and AI-assisted BI that help teams trust numbers and move faster.
 
-Most of my recent work lives in private company repos (metric definitions, warehouse modeling, internal analytics platforms, AI-assisted analysis workflows). What you see here is a smaller public sample of earlier analytics and systems work.
+Most day-to-day work lives in private company repos. The public lead project below is an architecture demo of the platform pattern (auto-mount Dash monolith, metric-style mock dashboards, adoption telemetry, experiment modernization). Mock data only; not Achieve production code.
 
 [LinkedIn](https://www.linkedin.com/in/oliveiralgm/) · oliveiralgm@gmail.com
+
+## Lead project
+
+| Repo | What it shows |
+|------|----------------|
+| **[bi-monolith-demo](https://github.com/oliveiralgm/bi-monolith-demo)** | Staff analytics platform demo: Flask/Dash auto-discovery mounting, consumer funnel (application → funding), experiment / A/B readout (Tableau → Dash spirit), platform adoption (DAU, peak users, per-dashboard). Public playground mode for hosted samples; contact for the full suite / access key. |
+
+One-click deploy (you click once): [Deploy to Render](https://render.com/deploy?repo=https://github.com/oliveiralgm/bi-monolith-demo)
 
 ## What I care about
 
@@ -13,16 +21,16 @@ Most of my recent work lives in private company repos (metric definitions, wareh
 - **Internal tools** that turn analysis into something teams actually use
 - **AI-assisted analytics** when it speeds up exploration without hiding the logic
 
-## Public projects worth looking at
+## Earlier public samples
 
-These are older portfolio pieces. They are not Achieve code.
+Older portfolio pieces (not the current Staff story):
 
 | Repo | What it shows |
 |------|----------------|
-| [Intercom_Funnel_analysis](https://github.com/oliveiralgm/Intercom_Funnel_analysis) | Funnel conversion analysis in Python (pandas, matplotlib): lead types, time-to-convert, cohort-style views |
-| [HOVER_jobs_forecast](https://github.com/oliveiralgm/HOVER_jobs_forecast) | Demand forecasting for job volume (GLM lag model + stacked LSTM), including weather-related volume questions |
-| [pair_trader](https://github.com/oliveiralgm/pair_trader) | Multi-process trading system: market data, order management, strategy, and GUI over Bloomberg EMSX |
+| [Intercom_Funnel_analysis](https://github.com/oliveiralgm/Intercom_Funnel_analysis) | Earlier funnel conversion notebook (pandas / matplotlib) |
+| [HOVER_jobs_forecast](https://github.com/oliveiralgm/HOVER_jobs_forecast) | Earlier demand forecasting sample |
+| [pair_trader](https://github.com/oliveiralgm/pair_trader) | Multi-process trading system over Bloomberg EMSX |
 
 ## About private vs public work
 
-If you are reviewing this for an analytics / data foundations role: the strongest signal for my current level is recent Staff work at Achieve, not these public repos. Happy to walk through architecture, metric design, and tooling tradeoffs in conversation.
+For Staff / Senior Analytics Engineer reviews, the strongest signal is recent platform and metrics work at Achieve, plus the [bi-monolith-demo](https://github.com/oliveiralgm/bi-monolith-demo) architecture sample. Happy to walk through design tradeoffs in conversation.
