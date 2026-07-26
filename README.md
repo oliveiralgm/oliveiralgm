@@ -16,8 +16,6 @@ Most day-to-day work lives in private company repos. The public lead project bel
 
 **Live playground:** [https://bi-monolith-demo.onrender.com/](https://bi-monolith-demo.onrender.com/)
 
-One-click deploy (you click once): [Deploy to Render](https://render.com/deploy?repo=https://github.com/oliveiralgm/bi-monolith-demo)
-
 ## What I care about
 
 - **Metrics and definitions** that stay consistent across product, finance, and ops
