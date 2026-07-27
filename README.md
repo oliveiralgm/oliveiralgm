@@ -2,7 +2,7 @@
 
 Sr Staff Data Analyst at [Achieve](https://www.achieve.com).
 
-Principal level analyst and analytics engineer in consumer lending. I architected the BI platform my organization runs on, a single containerized application that mounts dashboards on discovery, promotes itself across environments, and holds up under Kubernetes. Underneath it I define the metric contracts that keep team level and individual level numbers agreeing, lead the migration off legacy data lake views onto standardized warehouse tables, and set the statistical bar for what leadership is allowed to conclude from a segment comparison. I stay hands on in SQL, Python, and product design, and I write the specs that turn my blockers into cross-functional work other teams can act on.
+Principal level analyst and analytics engineer in consumer lending. I architected the BI platform my organization runs on, a single containerized application that mounts dashboards on discovery, promotes itself across environments, and holds up under Kubernetes. Underneath it I define the metric contracts that keep team level and individual level numbers agreeing, lead the migration of legacy data lake views onto standardized warehouse tables, and set the statistical bar for what leadership is allowed to conclude from a segment comparison. I stay hands on in SQL, Python, and product design, and I write the specs that turn my blockers into cross-functional work other teams can act on.
 
 Most day-to-day work lives in private company repos. The public lead project below is an architecture demo of that platform pattern (auto-mount Dash monolith, metric-style mock dashboards, adoption telemetry, experiment modernization). Mock data only; not Achieve production code.
 
